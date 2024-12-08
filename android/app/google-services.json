@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "364815548163",
+    "firebase_url": "https://rafalpha-80475-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "rafalpha-80475",
+    "storage_bucket": "rafalpha-80475.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364815548163:android:6629ee2cca8b973d00b336",
+        "android_client_info": {
+          "package_name": "com.alpha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364815548163-3r2ud387mmhugr5uveff0i22kk0otp68.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alpha",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "364815548163-s3gpdqf9214ga3et6mdrlnhdlli8pneu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alpha",
+            "certificate_hash": "01302873f69431a6bb355aaac8d785e12bcea3a9"
+          }
+        },
+        {
+          "client_id": "364815548163-lpidjgaincahgsi9s3tk8ukoc9fmbjlc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMIf6iELlwvHM6rjAAO__EHbyaOhM-Abs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364815548163-lpidjgaincahgsi9s3tk8ukoc9fmbjlc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

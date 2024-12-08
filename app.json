@@ -1,0 +1,10 @@
+{
+  "name": "Alpha",
+  "displayName": "Alpha",
+  "expo": {
+    "plugins": [
+      "@react-native-firebase/app",
+      "@react-native-firebase/auth"
+    ]
+  }
+}
